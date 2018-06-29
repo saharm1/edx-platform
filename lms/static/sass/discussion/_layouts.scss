@@ -22,7 +22,8 @@
     }
 
     .user-roles {
-        font-size: $forum-small-font-size;
+        display: none;
+	font-size: $forum-small-font-size;
         font-style: italic;
     }
 }
